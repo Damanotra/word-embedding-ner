@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+checkpoint/embedding/*
+data/*
+src/*
+notebooks/.ipynb_checkpoints
+notebooks/others/*
